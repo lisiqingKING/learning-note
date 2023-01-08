@@ -21,3 +21,12 @@
 #常见命令行
 
 #常见错误
+
+
+#创建本地分支 推送到远程
+    1.git checkout -b <分支名>
+    2.git push --set-upstream origin <分支名>
+
+#查看分支
+    1.git branch -a
+
